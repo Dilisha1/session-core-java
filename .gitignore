@@ -150,7 +150,7 @@ fabric.properties
 # Ignore everything but code style settings and run configurations
 # that are supposed to be shared within teams.
 
-.idea/*
+*.idea/*
 
 !.idea/codeStyles
 !.idea/runConfigurations
@@ -198,7 +198,7 @@ replay_pid*
 
 ### macOS ###
 # General
-.DS_Store
+*.DS_Store
 .AppleDouble
 .LSOverride
 

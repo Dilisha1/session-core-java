@@ -2,15 +2,15 @@ package day3;
 
 public class AmazonAccount {
     //State
-    //- account number
-    //- user
-    //- date account opened
-    //- email address linked
-    //- membership cost
-    //- linked phone number
-    //- date account was created
-    //- date of birth
-    //- associated address
+    //- account number (string)
+    //- user (string)
+    //- date account opened (string)
+    //- email address linked (string)
+    //- membership cost (float)
+    //- linked phone number (string)
+    //- date account was created (string)
+    //- date of birth (string)
+    //- associated address (string)
 
     //Behavior
     //- add item to cart

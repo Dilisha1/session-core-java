@@ -2,13 +2,12 @@ package day3;
 
 public class House {
     // Status
-    //- Color
-    //- size
-    //- nos. of bedroom
-    //- owner
-    //- value
-    //- size
-    //- nos of garage
+    //- Color (string)
+    //- size (float)
+    //- nos. of bedroom (string)
+    //- owner (string)
+    //- value (double)
+    //- nos. of garage (string)
 
     // Behavior (Buying a house)
     //- request a tour

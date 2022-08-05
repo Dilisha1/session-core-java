@@ -2,12 +2,13 @@ package day3;
 
 public class Laptop {
     //Status
-    //- OS
-    //- Color
-    //- Price
-    //- Model No.
-    //- Size
-    //- Memory
+    //- OS (String)
+    //- Color (string)
+    //- Price (float)
+    //- Model No. (string)
+    //- Size (float)
+    //- Memory (int)
+
 
     //Behavior (website)
     //- add to cart
